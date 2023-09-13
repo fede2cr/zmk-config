@@ -10,7 +10,7 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 //                name      unshifted         shifted
-#define nt_act ZMK_UNICODE_PAIR( nt_act,   N0, N3, N0, N1,   N0, N3, N0, N8 )
+#define (nt_act ZMK_UNICODE_PAIR( nt_act,   N0, N3, N0, N1,   N0, N3, N0, N8 ) )
 
 
 / {
