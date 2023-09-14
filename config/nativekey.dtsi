@@ -1,4 +1,4 @@
 /* NativeKey Bribri Keyboard */
 
 //                name      unshifted         shifted
-ZMK_UNICODE_PAIR( nt_act,   N0, N3, N0, N1,   N0, N3, N0, N8 ) // ' ¨
+ZMK_UNICODE_PAIR( ntk_act,   N0, N3, N0, N1,   N0, N3, N0, N8 ) // ' ¨
