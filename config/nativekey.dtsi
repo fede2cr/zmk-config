@@ -1,8 +1,8 @@
-/* NativeKey Bribri Keyboard */
+/* NativeKey Chibcha and Boruca Keyboard */
 
 //                name          unshifted         shifted
-ZMK_UNICODE_PAIR( ntk_acute,    N0, N3, N0, N1,   N0, N3, N0, N8 ) // ' ¨
-ZMK_UNICODE_PAIR( ntk_backtick, N0, N3, N0, N0,   N0, N3, N0, N2 ) // ` ^
-ZMK_UNICODE_PAIR( ntk_unders,   N0, N3, N2, N0,   N0, N3, N0, N3 ) // _ ~
-ZMK_UNICODE_PAIR( ntk_h,        N0, N3, N2,  A,   N2,  C, N7,  C ) // ʰ ʰ
-ZMK_UNICODE_PAIR( ntk_underc,   N0, N3, N1,  C,   N0, N3, N3, N9 ) //
+ZMK_UNICODE_PAIR( ntk_acute,    N0, N3, N0, N1,   N0, N3, N0, N8 ) //  ́ ¨
+ZMK_UNICODE_PAIR( ntk_backtick, N0, N3, N0, N0,   N0, N3, N0, N2 ) //  ̀ ^
+ZMK_UNICODE_PAIR( ntk_unders,   N0, N3, N2, N0,   N0, N3, N0, N3 ) //  ̠ ~
+ZMK_UNICODE_PAIR( ntk_h,        N0, N3, N2,  A,   N0, N3, N6,  E ) // ʰ  ͮ
+ZMK_UNICODE_PAIR( ntk_underc,   N0, N3, N1,  C,   N0, N3, N3, N9 ) //  ̜  ̹
